@@ -15,7 +15,8 @@
 
 ## Future Improvements
 
-🤔 just minor improvements needed!... like adding extra content but for now this achieve a good semantic, HTML is well structured. I Use nav only for navigation links, not for headings. Heading h1 and h2 outside nav. Consider using mainfor the main content. alt texts are descriptive . I use ul for unordered lists and ol for ordered lists. Accessibility is also considered by adding lang="en" in HTML.
+🤔 just minor improvements needed!... like adding extra content but for now this achieve a good semantic, HTML is well structured. I use nav only for navigation links, not for headings. 
+Heading h1 and h2 outside nav. Consider using mainfor the main content. alt texts are descriptive . I use ul for unordered lists and ol for ordered lists. Accessibility is also considered by adding lang="en" in HTML.
 
 
 ## Contact 👩🏽‍💻
